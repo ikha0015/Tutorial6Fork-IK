@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 8, fig.alig = "center")
+```
+
